@@ -1,8 +1,5 @@
 # Aging Fly Cell Atlas (AFCA) 
 
-# Reference
-Will be on bioRxiv soon 
-
 <br/><br/>
 
 # Updates
@@ -10,6 +7,17 @@ Will be on bioRxiv soon
    
 <br/><br/>
 
+# Reference
+Will be on bioRxiv soon 
+
+<br/><br/>
+
+
+
+# Data Portal 
+[FlyAgingAtlas](https://flyagingatlas.org/)
+
+<br/><br/>
 # Data availability  
 ## h5ad files with cellBC & cell-type annotations  
 **[head](https://bcmedu-my.sharepoint.com/:u:/g/personal/u239500_bcm_edu/EeriiH1i4utDh1XTKlqfXCYB9UiKX3u-mFWrd5fcKPPHUw?e=OAkCmD)**  
