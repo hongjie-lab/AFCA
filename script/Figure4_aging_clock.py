@@ -7,7 +7,7 @@ from sklearn.linear_model import ElasticNet
 from sklearn.model_selection import train_test_split
 from scipy.stats import pearsonr
 
-adata = sc.read("afcaFca_headBody_v0.5_stringent.h5ad")
+adata = sc.read("afcaFca_headBody_stringent.h5ad")
 
 def check_num_cells(age, thr_total=500, thr_stage=200):
     if len(age) < thr_total:
